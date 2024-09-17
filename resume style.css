@@ -1,0 +1,39 @@
+.headclass{
+    background-color: rgb(119, 119, 148);
+}
+h1,h2,h4,h5,h6{
+    color: rgb(86,86,176);
+}
+h3{
+    color: black;
+}
+.headleft{
+    width:50%;
+    height:100%;
+    float:left;
+}
+.headright{
+    float: right;
+    width: 50%;
+    height:100%;
+}
+.splitleft{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.splitright{
+    width: 50%;
+    height: 100%;
+    float:right
+}
+.left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    float:right
+}
